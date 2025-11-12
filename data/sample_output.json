@@ -1,0 +1,11 @@
+[
+  {
+    "keyword": "SEO",
+    "platforms": {
+      "google": ["SEO tools", "SEO services", "SEO keywords"],
+      "amazon": ["SEO books", "SEO courses", "SEO plugins"],
+      "youtube": ["SEO tutorial", "SEO tips", "SEO marketing"]
+    },
+    "timestamp": "2025-11-12T15:00:00"
+  }
+]
